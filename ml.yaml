@@ -18,6 +18,7 @@ dependencies:
   - nbex
   - numpy
   - pandas
+  - pip
   - pyarrow
   - pytest
   - pytest-cov
@@ -32,5 +33,6 @@ dependencies:
   - torchvision
   - torchtext
   - transformers
+  - xgboost
   - pip:
     - torch-tb-profiler
